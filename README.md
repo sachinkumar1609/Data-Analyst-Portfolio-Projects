@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio-Projects
 
-|-|-|
+
 |Blog on Hotel Booking Project|[Explanation Link](https://medium.com/@sachintukumar1609/data-analyst-project-on-hotel-booking-cde5e70a033e)
 
 ![best-hotel-booking-form-wordpress-plugins](https://user-images.githubusercontent.com/103982094/227188283-dbe28ded-3f4e-46a6-a5dc-e691918288d1.jpg)
